@@ -180,6 +180,11 @@ h6,
     }
 }
 
+a {
+    color: #fff !important;
+    text-decoration: none;
+}
+
 @media (max-width: 768px) {
     .footer .col-md-6.col-lg-12 {
       flex-direction: column;
